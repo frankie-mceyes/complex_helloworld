@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WORLD=('H' 'E' 'L' 'L' 'O' '_' 'W' 'O' 'R' 'L' 'D')
+WORLD=('H' 'E' 'L' 'L' 'O' ' ' 'W' 'O' 'R' 'L' 'D')
 WORD=""
 COUNT=0
 
